@@ -1,4 +1,4 @@
-# Responsible-use-of-sudo
+# Responsible-use-of-sudo (edit formatting later)
 To manage authorization and authentication in Linux, it's recommended to use sudo instead of logging in as the root user. The sudo command grants temporary elevated permissions to specific users. However, it's important to be cautious with sudo and only use it when necessary to prevent security risks.
 
 
